@@ -1,4 +1,4 @@
-# JSON-Response-from-Webmethod-To-Jquery-AJAX
+# JSON format data responce from webmethod to jquery AJAX and display in asp.net controls
 JSON Response from Webmethod To Jquery AJAX and assign to controls.
 
 
