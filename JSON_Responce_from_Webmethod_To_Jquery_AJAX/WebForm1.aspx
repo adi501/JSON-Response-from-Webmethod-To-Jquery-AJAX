@@ -11,8 +11,6 @@
     <form id="form1" runat="server">
         <div>
             <asp:Button ID="btnGetDetails" runat="server" Text="Get Details" />
-
-
             <table>
                 <tr>
                     <td>Product Name:</td>
