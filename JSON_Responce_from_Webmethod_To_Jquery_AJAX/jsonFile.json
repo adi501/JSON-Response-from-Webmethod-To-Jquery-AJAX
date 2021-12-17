@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "status_code": 200,
+  "product_name": "oneplus nord",
+  "product_details": {
+    "amount": 20000,
+    "manufacturing_year": 2020,
+    "manufacturing_month": "Jun",
+    "color": "Blue"
+  }
+}
+
